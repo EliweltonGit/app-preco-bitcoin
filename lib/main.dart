@@ -4,6 +4,6 @@ import 'package:preco_bitcoin/Home.dart';
 void main(){
   runApp(MaterialApp(
     home: Home(),
-    showSemanticsDebugger: false,
+    debugShowCheckedModeBanner: false,
   ));
 }
